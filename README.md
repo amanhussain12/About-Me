@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [*AMAN HUSSAIN*]!
 ### Aspiring Software Engineer | Web Developer | Learner
 
 ---
@@ -19,14 +19,14 @@
 ---
 
 ## 📈 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+*https://github.com/amanhussain12*
 
 ---
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- WhatsApp: [your-whatsapp-number]
+- Email: *amanhus977@gmail.com*
+- LinkedIn: *www.linkedin.com/in/aman-hussain-a1073a316*
+- WhatsApp: *0313-1089699 & 03483406491*
 
 ---
 
